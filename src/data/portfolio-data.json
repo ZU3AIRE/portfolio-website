@@ -1,0 +1,261 @@
+{
+  "personal": {
+    "name": "Zubair Jamil",
+    "title": "Full-Stack Developer",
+    "bio": "I'm a Software Engineer, working mainly with .NET, Angular, and cloud tools, keeping my code clean and easy to manage. I care about getting things done quickly without making a mess for the future. I'm excited to join a team where I can build real solutions that help the company grow.",
+    "email": "xubairjamil@gmail.com",
+    "location": "Lahore, Pakistan",
+    "avatarUrl": "/images/avatar.jpg",
+    "socialLinks": [
+      {
+        "platform": "github",
+        "url": "https://github.com/ZU3AIRE"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/in/ZU3AIRE"
+      },
+      {
+        "platform": "stackoverflow",
+        "url": "https://stackoverflow.com/users/14047544/zubair-jamil"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        ".NET Core",
+        "Node.js",
+        "Entra ID Authentication",
+        "GraphQL",
+        "SQL Server",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "category": "Tools & Methods",
+      "items": [
+        "Git",
+        "Azure DevOps",
+        "CI/CD",
+        "Agile",
+        "Test-Driven Development"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "id": "Telestra Purple",
+      "title": "NetSuite Integration",
+      "description": "Integration of NetSuite with Telestra Purple for leave management, enabling seamless data flow and improved HR processes.",
+      "technologies": [
+        ".NET Core",
+        "RestClient",
+        "Resharper",
+        "SQL Server"
+      ],
+      "imageUrl": "/images/projects/ecommerce.svg",
+      "liveUrl": "https://www.telstra.com.au/",
+      "featured": true
+    },
+    {
+      "id": "Aurora",
+      "title": "Aurora - Mortgage Management System",
+      "description": "A comprehensive mortgage management system that streamlines the loan application process, automating tasks and improving efficiency.",
+      "technologies": [
+        ".NET Core",
+        "Angular",
+        "Decisions Workflow Engine"
+      ],
+      "imageUrl": "/images/projects/taskapp.svg",
+      "liveUrl": "https://mytaskapp.com",
+      "githubUrl": "https://github.com/zjamil/taskapp",
+      "featured": true
+    }
+  ],
+  "projects": [
+    {
+      "id": "Deimos",
+      "title": "Deimos - Customer Portal (Aurora)",
+      "description": "A customer portal for Aurora that allows users to manage their mortgage applications, track progress, and communicate with loan officers.",
+      "technologies": [
+        "Angular",
+        "Azure ",
+        "RestClient"
+      ],
+      "imageUrl": "/images/projects/weather.svg",
+      "liveUrl": "https://weatherdashboard.com",
+      "githubUrl": "https://github.com/zjamil/weather",
+      "featured": false
+    },
+    {
+      "id": "project4",
+      "title": "MTS - Trading System",
+      "description": "A trading system for managing and executing trades in financial markets. It provides real-time data analysis and trade execution capabilities.",
+      "technologies": [
+        ".NET Core",
+        "Angular",
+        "Dev Extreme"
+      ],
+      "imageUrl": "/images/projects/portfolio.svg",
+      "liveUrl": "https://zjamil.com",
+      "githubUrl": "https://github.com/zjamil/portfolio",
+      "featured": false
+    } 
+  ],
+  "experience": [
+    {
+      "company": "ArhamSoft",
+      "position": "Software Engineer",
+      "period": "2023 - Present",
+      "description": "Developed responsive web interfaces for various client projects using React and Angular. Collaborated with UX designers to implement visually appealing and user-friendly interfaces.",
+      "highlights": [
+        "Dual Authentication system using Entra ID and Asp .NET Core Identity",
+        "Reduced data retrieval time by 40% through optimized API calls",
+        "Participated in code reviews and provided constructive feedback to peers",
+        "Set up Azure DevOps for pull requests, branching strategies, and CI/CD pipelines"
+      ]
+    },
+    {
+      "company": "Deimos Mars Capital",
+      "position": "Full-Stack Developer",
+      "period": "2021 - 2023",
+      "description": "Senior Developer responsible for designing and implementing web applications using .NET Core and Angular. Collaborated with cross-functional teams to deliver high-quality software solutions.",
+      "highlights": [
+        "Query optimization led to 30% performance improvement",
+        "Mentored junior developers and introduced code review process",
+        "Led migration from legacy system to modern tech stack",
+        "Followed Agile methodologies to ensure timely delivery of projects"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Punjab University",
+      "degree": "Bachelor of Computer Science",
+      "period": "2021 - 2025",
+      "description": "Graduated with honors. Participated in multiple hackathons and coding competitions."
+    },
+    {
+      "institution": "Govt. Islamia College, Civil Lines",
+      "degree": "Intemediate in Computer Science",
+      "period": "2019 - 2021",
+      "description": "Completed with a focus on programming and software development. Actively participated in extracurricular activities related to technology."
+    }
+  ],
+  "certifications": [
+    {
+      "id": "AZ400",
+      "name": "Microsoft Certified: Azure DevOps Engineer Expert",
+      "issuer": "Microsoft",
+      "date": "November 2024",
+      "description": "Expert-level certification demonstrating proficiency in Azure DevOps practices and tools.",
+      "credentialUrl": "https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/AE0D2059380A8CE3?sharingId=studentamb_426962",
+      "imageUrl": "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main"
+    },
+    {
+      "id": "Az204",
+      "name": "Developing Solutions for Microsoft Azure",
+      "issuer": "Microsoft",
+      "date": "September 2024",
+      "description": "Comprehensive program covering modern web development using React, Node.js, and database technologies.",
+      "credentialUrl": "https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/B754DA8BC7F0173E?sharingId=studentamb_426962",
+      "imageUrl": "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
+    },
+    {
+      "id": "AZ900",
+      "name": "Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "August 2024",
+      "description": "Fundamental knowledge of cloud services and how those services are provided with Microsoft Azure.",
+      "credentialUrl": "https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/76F035384AA53B?sharingId=studentamb_426962",
+      "imageUrl": "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"
+    }
+    ,
+    {
+      "id": "AZ2104",
+      "name": "Build distributed apps with .NET Aspire",
+      "issuer": "Microsoft Applied Skills",
+      "date": "December 2024",
+      "description": "Learn how to build distributed applications using .NET and Azure. This course covers microservices architecture, Azure Functions, and more.",
+      "credentialUrl": "https://learn.microsoft.com/api/credentials/share/en-us/zubairjamil-4782/76F035384AA53B?sharingId=studentamb_426962",
+      "imageUrl": "https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "vol1",
+      "organization": "Microsoft",
+      "role": "Microsoft Learn Student Ambassador",
+      "period": "2025 - Present",
+      "description": "Engaging with the developer community to promote learning and sharing knowledge about Microsoft technologies. Organizing workshops and events to help students gain practical experience.",
+      "achievements": [
+        "Hosted Events on Azure and .NET technologies",
+        "Helped students prepare for Microsoft certifications",
+        "Organized hackathons and coding competitions",
+        "Mentored students in software development best practices"
+      ],
+      "websiteUrl": "https://mvp.microsoft.com/en-US/studentambassadors/profile/e11d5f18-5f5c-4090-b0b2-5b10d9686259",
+      "badge": {
+        "name": "Microsoft Learn Student Ambassador Beta",
+        "imageUrl": "/images/badges/msla-beta.png",
+        "level": "Beta",
+        "issueDate": "2025"
+      }
+    }
+  ],
+  "contact": {
+    "email": "xubairjamil@gmail.com",
+    "phone": "+92 (326) 465-2191",
+    "location": "Lahore, Pakistan",
+    "availability": "Open to new opportunities"
+  },
+  "linkedinRecommendations": [
+    {
+      "id": "rec1",
+      "name": "Noman Arif",
+      "title": "Tech Lead",
+      "company": "ArhamSoft",
+      "text": "Zubair is a highly skilled software engineer with a strong understanding of both front-end and back-end technologies. He has a knack for solving complex problems and is always eager to learn new things. His contributions to our projects have been invaluable, and I highly recommend him for any software development role.",
+      "avatarUrl": "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
+      "relationship": "Tech Lead at ArhamSoft"
+    },
+    {
+      "id": "rec2",
+      "name": "Salman Najam",
+      "title": "CEO",
+      "company": "TetraSol",
+      "text": "I had the pleasure of working with Zubair Jamil as a software engineer. He is highly skilled in C#, OOP, .NET, Angular, and DevOps, consistently delivering high-quality work on time. Zubair is punctual, intelligent, and a friendly, reliable team member. I highly recommend him for any future opportunities..",
+      "avatarUrl": "https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main",
+      "relationship": "CEO & Direct Lead at TetraSol"
+    },
+    {
+      "id": "rec3",
+      "name": "Sermad Ahmed",
+      "title": "Software Engineer",
+      "company": "Punjab College",
+      "text": "Zubair is a highly skilled and dedicated software engineer with a sharp problem-solving mindset. His expertise in .NET and Azure, combined with his passion for innovation, makes him a standout professional. I would never miss a chance to work with him!",
+      "avatarUrl": "/images/avatar.jpg",
+      "relationship": "Software Engineer at Punjab College"
+    }
+  ],
+  "siteConfig": {
+    "title": "Zubair Jamil | Software Engineer",
+    "description": "Personal portfolio showcasing my projects, skills, and experience as a Full-Stack Developer.",
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#10b981",
+    "accentColor": "#8b5cf6",
+    "darkMode": true
+  }
+}
